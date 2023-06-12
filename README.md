@@ -1,2 +1,2 @@
-# landmarks
+# Landmarks
 SwiftUI Tutorial
